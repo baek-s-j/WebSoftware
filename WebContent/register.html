@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+		body {font-family: Arial, Helvetica, sans-serif;}
+		span {
+			color:red;
+		}
+
+		input[type=text], input[type=email], input[type=password] {
+		  width: 100%;
+		  padding: 12px 20px;
+		  margin: 8px 0;
+		  display: inline-block;
+		  border: 1px solid #ccc;
+		  border-radius: 4px;
+		  box-sizing: border-box;
+		}
+
+		input[type=submit] {
+		  width: 100%;
+		  background-color: #4CAF50;
+		  color: white;qnsau
+		  padding: 14px 20px;
+		  margin: 8px 0;
+		  border: none;
+		  border-radius: 4px;
+		  cursor: pointer;
+		}
+
+		input[type=submit]:hover {
+		  background-color: #45a049;
+		}
+
+
+		input[type=reset] {
+		  width: 100%;
+		  background-color: #00BFFF;
+		  color: white;
+		  padding: 14px 20px;
+		  margin: 8px 0;
+		  border: none;
+		  border-radius: 4px;
+		  cursor: pointer;
+		}
+
+		input[type=reset]:hover {
+		  background-color: #1E90FF;
+		}
+
+		div {
+		  border-radius: 5px;
+		  background-color: #f2f2f2;
+		  padding: 20px;
+		}	    
+ 
+
+	</style>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>충북대 음식점 추천사이트</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+  <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+  <!-- Custom styles for this template -->
+  <link href="css/landing-page.min.css" rel="stylesheet">
+
+</head>
+<body>
+<body>
+
+<div>	
+	<form action="register2.jsp" method="POST" >
+	  <h2>회원가입</h2>
+	   <p>
+	    <label>이름 <span>*</span></label>
+	   <input type="text" placeholder="User name" name="userID"  id="userID" required>
+	  </p>
+	  <p>
+	    <label>아이디 <span>*</span></label>
+	    <input type="text" placeholder="User id" name="userName"  id="userName" required>
+	  </p>
+	 
+	  <p>
+	    <label>이메일 <span>*</span></label>
+	    <input type="email" placeholder="Email" name="userEmail"  id="userEmail" required>
+	  </p>
+	 
+	  <p>
+	    <label>비밀번호 <span>*</span></label>
+	    <input type="password" placeholder="Password"  name="userPassword" id="userPassword" required>
+	  </p>
+	  <p>
+	    <input type="submit" name="submitButton" value="Submit" id="submitButton">
+	    <input type="reset" name="resetButton" value="Clear" id="resetButton">
+	  </p>
+
+	</form>
+</div>
+</body>
+</html>
