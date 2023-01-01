@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <img src="./readme_img/foodselect1.PNG">
+  <img src="./readme_img/foodselect1.png">
   <br>
 </p>
 
