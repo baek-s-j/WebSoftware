@@ -39,7 +39,7 @@
 #### 충북대학교 정문, 중문, 서문, 후문별로 구분하여 사용자가 원하는 위치에 음식점을 추천받을 수 있다.
 <p align="center">
   <br>
-  <img src="./readme_img/project3_1.png">
+  <img src="./readme_img/project3_1.jpg">
   <br>
 </p>
 
@@ -47,7 +47,7 @@
 #### 한식, 중식, 양식, 분식별로 구분하여 사용자가 원하는 음식의 종류로 음식점을 추천받을 수 있다.
 <p align="center">
   <br>
-  <img src="./readme_img/project3_2.png">
+  <img src="./readme_img/project3_2.jpg">
   <br>
 </p>
 
@@ -55,7 +55,7 @@
 ####  음식점별로 평점을 주어 자신의 의견을 표현하고 다른 사용자의 의견도 볼 수 있다.
 <p align="center">
   <br>
-  <img src="./readme_img/project3_3.png">
+  <img src="./readme_img/project3_3.jpg">
   <br>
 </p>
 
@@ -63,9 +63,9 @@
 #### 평점과 댓글 기능을 사용하여 자신의 의견을 표현과 동시에 다른 사용자의 의견도 볼 수 있다.
 <p align="center">
   <br>
-  <img src="./readme_img/project3_4_1.png">
+  <img src="./readme_img/project3_4_1.jpg">
   <br>
-  <img src="./readme_img/project3_4_2.png">
+  <img src="./readme_img/project3_4_2.jpg">
   <br>
 </p>
 
@@ -73,7 +73,7 @@
 #### 음식점 업주 입장에서 자신의 음식점을 등록할 수 있다.
 <p align="center">
   <br>
-  <img src="./readme_img/project3_5.png">
+  <img src="./readme_img/project3_5.jpg">
   <br>
 </p>
 
